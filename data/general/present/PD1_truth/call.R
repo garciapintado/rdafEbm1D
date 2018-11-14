@@ -27,7 +27,7 @@
  system(paste("ln -sf", file.path(EBM1,'andre','Ebm1D','input','*'),
                         file.path(dsnsim,'input')))
 
- source(file.path(EBM1,'R','main.R'))
+ source(file.path(EBM1,'R','rdafEbm1D.R'))
 
  cat("Full completion!\n")
  #ellapseT <- difftime(Sys.time(), startT, units="hours")
