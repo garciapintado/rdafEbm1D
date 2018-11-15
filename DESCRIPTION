@@ -1,0 +1,11 @@
+Package: rdafEbm1D
+Version: 1.0-0
+Type: collection of scripts and functions
+Title: R assimilation for Ebm1D
+Date: 2018-10-19
+Imports: rDAF
+Author: Javier Garcia-Pintado
+Maintainer: Javier Garcia-Pintado <jgarciapintado@marum.de>
+Description: Setup of the model Ebm1D and assimilation via R scripts and the rDAF package.
+License: GPL (>=2)
+URL: https://github.com/garciapintado/rdafEbm1D
